@@ -1,4 +1,4 @@
-# Book Recommendation Chatbot (Rule-Based Chatbot)
+# Library Assistant Chatbot (Rule-Based Chatbot)
 
 This is a rule-based chatbot designed to simulate a student and college library assistant conversation.
 The chatbot allows users to browse book categories, issue books, return books, and calculate fines for late returns.
