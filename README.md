@@ -5,13 +5,23 @@ The chatbot allows users to browse book categories, issue books, return books, a
 
 ## Features
 
--Greeting and exit interaction
--View available book categories
--Display books based on selected category
--Select and issue books (maximum 3 books)
--Return issued books
--Fine calculation for late return
--Exception handling for invalid inputs
+- Greeting and exit interaction
+- View available book categories
+- Display books based on selected category
+- Select and issue books (maximum 3 books)
+- Return issued books
+- Fine calculation for late return
+- Exception handling for invalid inputs
+
+## Technologies Used
+-  Python
+-  Dictionaries
+-  Functions
+-  Lists
+-  Loops
+-  Conditional Statements
+-  Exception Handling
+-  Random Module
 
 ## Conclusion
 
